@@ -90,4 +90,4 @@ Pra quem sabe olhar pra trás nenhuma rua é sem saída.
 
 Refrão_
 
-{% youtube jW7HfGZ__rc %}
+{% include youtube.html video_id="jW7HfGZ__rc" %}

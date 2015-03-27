@@ -39,4 +39,4 @@ Músicas tristes há aos montes. Até creio que a tristeza seja um dos principai
 
 O disco mais melancólico do Los Hermanos para mim é o "[4](http://pt.wikipedia.org/wiki/4_(álbum))". Com forte influência de Radiohead, é um disco bastante denso. Esta música representa bem o disco e eu considero um jeito bacana de curtir uma tristeza. Com vocês "É de lagrima", do Marcelo Camelo.
 
-{% youtube ugv7nSjupCE %}
+{% include youtube.html video_id="ugv7nSjupCE" %}

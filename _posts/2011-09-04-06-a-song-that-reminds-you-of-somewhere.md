@@ -39,4 +39,4 @@ Mas estamos falando de música, certo? Pois bem, por algum motivo que não sei e
 
 Em resumo, a música me lembra da Escócia, claro. Mas ela não é nem escocesa, nem de um escocês e eu nem ouvi a música lá! Não por isso é menos boa ou não faz com que eu me lembre. O cara é o [John Petrucci](http://www.johnpetrucci.com/), guitarrista do [Dream Theater](http://dreamtheater.net/), que já fui um dia minha banda favorita. O álbum é o "Suspended Animation", um álbum sola bacana com altos e baixos, nada excepcional. Mas esta música é um alto bem alto. É a "Glasgow Kiss", começa com um riff foda, que já te transporta para a Escócia na hora e só vai melhorando. Momentos mais tranquilos de boa construção harmônica. Ele é um pouco chato no solo ao vivo, pordoem-me. Vale a pena!
 
-{% youtube FgBlHM5TW5Q %}
+{% include youtube.html video_id="FgBlHM5TW5Q" %}

@@ -35,4 +35,4 @@ Estou falando do álbum ao vivo "[Soul Vaccination: Live](http://en.wikipedia.or
 
 Agora ao segundo problema: escolher uma só música desse show incrível. É muito groove, muito feeling, coisas que só o soul pode te trazer nessa intensidade e juntas. O show começa quente, com "Soul with a capital S", e como é disso que o show trata, nada mais justo do que ser a escolhida aqui. Até porque ela deve ser a que mais ouvi, já que é a primeira.
 
-{% youtube P9x5yntJub8 %}
+{% include youtube.html video_id="P9x5yntJub8" %}

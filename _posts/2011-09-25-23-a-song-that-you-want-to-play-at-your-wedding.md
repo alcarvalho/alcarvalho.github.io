@@ -36,4 +36,4 @@ Assim, sem ter alguém em mente para ter uma história, é algo complicado. Ness
 
 Gostei dessa aqui.
 
-{% youtube c3EOrWA6Iro %}
+{% include youtube.html video_id="c3EOrWA6Iro" %}

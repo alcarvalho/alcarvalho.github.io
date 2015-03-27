@@ -34,4 +34,4 @@ Eu já gostei de Legião Urbana, reconheço! Nunca comprei um disco, um CD, nada
 
 Enquanto escrevia esse post, ouvi a música, que na época eu achava a melhor deles. Tem alguns pontos bacanas, mas é bem bestinha, né?
 
-{% youtube eL6zdEwRKws %}
+{% include youtube.html video_id="eL6zdEwRKws" %}

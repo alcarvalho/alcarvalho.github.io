@@ -29,4 +29,4 @@ Acredito piamente que eu tenha coisas piores no meu iPod. Eu tenho um álbum da 
 
 Sem mais delongas, eis a pérola.
 
-{% youtube DDNS-ZrgPEc %}
+{% include youtube.html video_id="DDNS-ZrgPEc" %}

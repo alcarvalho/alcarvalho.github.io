@@ -37,4 +37,4 @@ O álbum é o [Balance](http://pt.wikipedia.org/wiki/Balance_(álbum)). Ele foi 
 
 Musicalmente, como é de costume no caso do Van Halen, ela é muito bem construída. Riffs matadores na guitarra, levada absurda na bateria e vocais empolgantes, tudo bem foda!
 
-{% youtube yWH42hcBJzI %}
+{% include youtube.html video_id="yWH42hcBJzI" %}

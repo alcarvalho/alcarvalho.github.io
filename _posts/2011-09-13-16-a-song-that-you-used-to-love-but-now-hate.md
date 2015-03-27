@@ -34,4 +34,4 @@ Com o passar dos anos, a chegada de certa sensatez, passados alguns porres, pés
 
 Vejam o pobre coitado tocando uma música com um "bluesy feeling", como ele mesmo descreve.
 
-{% youtube SzW8fi8z5C8 %}
+{% include youtube.html video_id="SzW8fi8z5C8" %}

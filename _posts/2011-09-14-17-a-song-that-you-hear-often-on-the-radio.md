@@ -37,4 +37,4 @@ Para quem não viu o filme, vale muito a pena. Dirigido por Sean Penn, é basead
 
 A música também é muito boa, belíssima escolha para a trilha. Fala de uma certa briga do cara com a natureza. Algo como um desafio e demonstra nossa impotência diante da grandiosidade dos acontecimentos naturais. Nós que vivemos no Brasil sabemos pouco do que a natureza é capaz, aqui desastres naturais são raros, mas há outros seres humanos bem menos favorecidos que a gente nesse quesito. Apreciem-na.
 
-{% youtube KVw7mg7-uj0 %}
+{% include youtube.html video_id="KVw7mg7-uj0" %}
