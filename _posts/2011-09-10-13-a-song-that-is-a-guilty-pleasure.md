@@ -37,4 +37,4 @@ Eu nunca prestei atenção na letra, não me importa! Mas a música é legalzinh
 
 Estou falando da Britney Spears, sim dela mesmo! E a música é a "Toxic", o clipe é ridículo e eu não espero menos da letra, não tive coragem de prestar atenção nela, juro. Mas veja como a música é interessante. As cordas, o groove do baixo, da guitarra/violão, sei lá. Bem massa, mesmo!
 
-{% youtube LOZuxwVk7TU %}
+{% include youtube.html video_id="LOZuxwVk7TU" %}

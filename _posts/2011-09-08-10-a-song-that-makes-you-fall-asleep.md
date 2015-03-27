@@ -35,4 +35,4 @@ Em geral prefiro músicas instrumentais ou canções cantadas por mulheres para 
 
 Cantora, instrumentista e compositora de muito talento, infelizmente não manteve o nível de quando começou na carreira. Eu ouvi o último disco dela "The Fall" e achei bem ruim. Até hoje, o primeiro "Come away with me" é o melhor para mim. E é nele que está a música que vai me ninar hoje e muitas outras vezes nessa vida, ainda. "The long day is over" é uma canção bem tranquila melodicamente, parece estar num ralentando o tempo todo, quase se arrasta. Liricamente simples, como deve ser.
 
-{% youtube S22n1VVZ6g8 %}
+{% include youtube.html video_id="S22n1VVZ6g8" %}

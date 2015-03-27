@@ -39,4 +39,4 @@ A música é do [Derek Sherinian](http://www.dereksherinian.com), tecladista abs
 
 A música é a "Stony Days", que tem a melodia principal tocada na guitarra, com um feeling que seria impossível ao Malmsteen, felizmente foi executada por outro cara. Seu nome é Steve Lukather, um guitarrista, compositor, arranjador que já tocou com muita gente, inclusive com o Michael Jackson no álbum "Thriller". E foi uma execução impacável, cheia de feeling.
 
-{% youtube dkk2S4r1LTs %}
+{% include youtube.html video_id="dkk2S4r1LTs" %}

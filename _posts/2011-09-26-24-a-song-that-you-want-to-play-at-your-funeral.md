@@ -31,4 +31,4 @@ Novamente uma que me faz ser ortodoxo. Uma das mais belas composições que já 
 
 Não faço questão nenhuma de pompas no meu funeral, pois considero este ritual algo um pouco sem sentido. Tampouco quero ser enterrado neste ou naquele lugar específico, peço apenas que se gaste o menor esforço com isso, já que não me importa! Ainda assim, se houver algum ritual e houver possibilidade de música, escolho este trecho que é o mais famoso da obra toda:
 
-{% youtube G-kJVmEWWV8 %}
+{% include youtube.html video_id="G-kJVmEWWV8" %}

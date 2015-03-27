@@ -35,4 +35,4 @@ Ela é parte do álbum "[Ænima](http://en.wikipedia.org/wiki/Ænima)", na minha
 
 Finalmente, a música é a "Hooker with a Penis", música bem intensa, que tem um conteúdo bastante crítico. Não vou discorrer sobre. Apreciem-na! ;)
 
-{% youtube 7fIRo-UtdOU %}
+{% include youtube.html video_id="7fIRo-UtdOU" %}

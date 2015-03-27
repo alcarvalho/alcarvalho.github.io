@@ -29,7 +29,7 @@ A primeira parte complicada desta escolha é eleger a minha banda favorita. Se f
 
 Outra que está entre as minhas preferidas, ainda na mesma linha, é [The Brecker Brothers](http://en.wikipedia.org/wiki/Brecker_Brothers), que tinha o inigualável Michael Brecker tocando sax, junto com seu irmão Randy Brecker no trompete. Infelizmente o Michael Brecker já não está mais tocando entre nós. Mas vou quebrar as regras, e colocar uma que vale a pena ser recordada. Embora ela não seja a escolha de hoje. Vejam essa banda, que coisa absurda: Michael Brecker (sax), Randy Brecker (trompete), Michael Stern (guitarra), George Whitty (teclados), James Genus (baixo) e Dennis Chambers, considerado o melhor baterista do mundo por muito tempo. Só uma dica, o solo do Michael Brecker está no final da música!
 
-{% youtube eMHpOTSIfmo %}
+{% include youtube.html video_id="eMHpOTSIfmo" %}
 
 Logo após as citadas, vêm duas outras bandas empatadas tecnicamente: [Tower of Power](http://www.towerofpower.com/) e [Dave Matthews Band](http://en.wikipedia.org/wiki/Dave_Matthews_Band). Estas duas figuram bem alto no meu conceito de hoje. Se você não conhece alguma dessas duas, por favor, faça-se um favor e procure algumas músicas por aí.
 
@@ -43,4 +43,4 @@ A escolha da música a ser colocada aqui é complicada, mas vou escolher algo qu
 
 A música escolhida é "Lines in the Sand", música de uma maturidade incrível na composição. É progressiva, como deve ser no caso do Dream Theater, transita por diversos climas, tem uma levada bem suingada em vários momentos e um dos melhores solos da carreira do [John Petrucci](http://www.johnpetrucci.com/). Eu nunca prestei muita atenção na letra dela, confesso. Mas a música vale muito a pena.
 
-{% youtube nZQdloRniuI %}
+{% include youtube.html video_id="nZQdloRniuI" %}

@@ -37,4 +37,4 @@ Ela já foi tema de um [filme do Arnaldo Jabor](http://www.imdb.com/title/tt008
 
 Voltando à música, estou falando de "Eu te amo", que está no disco "Vida", com tantas outras canções fantásticas do Chico. Cheguei a ler uma [análise semiótica](http://www.fflch.usp.br/dl/semiotica/public/dietrich_euteamo.pdf) desta canção, certa vez, que utiliza um método do Luiz Tatit para analisar a canção como o conjunto música e letra que é. A leitura só demostrou ainda mais a genialidade que eu já via nela.
 
-{% youtube -gVRRjSI4M0 %}
+{% include youtube.html video_id="-gVRRjSI4M0" %}
