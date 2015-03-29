@@ -11,7 +11,7 @@ layout: default
   {% endif %}
 
   <div class="posts">
-    {% for post in site.categories.main limit:10 %}
+    {% for post in paginator.posts %}
     <div class="post-teaser">
       <header>
         <h1>
@@ -33,10 +33,20 @@ layout: default
     {% endfor %}
   </div>
 
+  {% if paginator.total_pages > 1 %}
   <div class="pagination">
-    <a href="/blog/" class="button" >
-      <i class="fa fa-align-right"></i>
-      {{ site.theme.str_all }}
+    {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
+      <i class="fa fa-chevron-left"></i>
+      {{ site.theme.str_prev }}
     </a>
+    {% endif %}
+    {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="button" >
+      {{ site.theme.str_next }}
+      <i class="fa fa-chevron-right"></i>
+    </a>
+    {% endif %}
   </div>
+  {% endif %}
 </div>
