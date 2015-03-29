@@ -6,7 +6,7 @@ url: "http://alcarvalho.github.io" # the base hostname & protocol for your site
 theme:
   # Meta
   title: concatenações de chico
-  avatar: 
+  avatar:
   gravatar: bc403142cbfb5a37fa8ca92b2f6730cb
   description: "fico aqui inventando moda" # used by search engines
 
@@ -14,7 +14,8 @@ theme:
   header_text: # nada for now
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
+   Powered by <a href="http://jekyllrb.com">Jekyll</a>
+   with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
 
   # Icons
   rss: false
@@ -27,19 +28,19 @@ theme:
   github: alcarvalho
   google_plus:
   instagram: alcarvalho
-  linkedin:  # Full URL
+  linkedin: https://br.linkedin.com/in/alcarv # Full URL
   pinterest:
   reddit:
-  soundcloud:
+  soundcloud: andre-carvalho
   stack_exchange: http://stackoverflow.com/users/2317346/andre-luiz # Full URL
   steam:
   tumblr:
-  twitter: "alcarv"
+  twitter: alcarv
   wordpress:
   youtube:
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: UA-61304837-1
   disqus_shortname: alcarvalho
   katex: true # Enable if using math markup
 
