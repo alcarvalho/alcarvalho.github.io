@@ -20,3 +20,11 @@ Array.prototype.forEach.call(elements, function(element) {
      element.parentNode.insertBefore(katexElement, element);
   }
 });
+
+$(window).load(function() {
+    $('img.caption').captionjs({
+        'schema'          : false,
+        'is_responsive'   : true,
+        'inherit_styles'  : true
+    });
+});
