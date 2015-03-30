@@ -19,7 +19,7 @@ tweet_this_url:
   - getnew
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Hoje, como de costume, ia postar alguma música que por algum motivo me surgiu no pensamento ao acordar como bom dia para o pessoal das redes sociais. Porém me lembrei desse desafio que é bastante interessante, especialmente para mim, como fã de "[High fidelity](http://www.imdb.com/title/tt0146882/)" que sou.

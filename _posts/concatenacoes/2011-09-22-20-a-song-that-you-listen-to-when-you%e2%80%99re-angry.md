@@ -21,7 +21,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Quando eu estou bravo há duas opções. Ou eu escolho uma música que vá me acalmar de alguma maneira, o que é raro. Ou escuto algo que vá me ajudar a extravasar aquela raiva momentânea. Nesse caso há poucas opções.

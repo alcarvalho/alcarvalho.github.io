@@ -23,7 +23,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Acho difícil uma música me deixar triste quando estou feliz. Ainda que seu teor seja triste. Mas há a junção de diversos fatores que podem causar isso, no meu caso. Se eu pegar uma música que é triste, por natureza e que esteja associada a um evento triste, é possível que uma melancolia me tome conta, sim.

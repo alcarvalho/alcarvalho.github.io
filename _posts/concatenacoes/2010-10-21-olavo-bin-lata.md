@@ -7,7 +7,7 @@ tweet_this_url:
   - http://is.gd/m7tbgo
 categories:
   - jericoacoara
-  - concatenações
+  - concatenacoes
 ---
 
 [![Olavo "Bin Lata" por John Smay](/wp-content/uploads/2010/10/Jeri.9.07.090-768x1024.jpg){: .caption }](https://picasaweb.google.com/117306786256962357347/Jericoacoara#5273137900296472658)

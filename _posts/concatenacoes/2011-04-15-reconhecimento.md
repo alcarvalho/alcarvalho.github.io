@@ -6,7 +6,7 @@ permalink: /concatenacoes/reconhecimento/
 tweet_this_url:
   - getnew
 categories:
-  - concatenações
+  - concatenacoes
 ---
 
 ![Olhar](/wp-content/uploads/2011/04/child_looking_up.jpg){: .caption }

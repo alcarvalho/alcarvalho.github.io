@@ -21,7 +21,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 E chegamos à décima música! Parece-me um marco, tenho particular simpatia pelo dez, talvez por conta do meu aniversário, ou pela sua redondeza. Mas gosto dele.

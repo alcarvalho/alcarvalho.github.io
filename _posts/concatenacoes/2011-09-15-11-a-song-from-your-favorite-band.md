@@ -21,7 +21,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Hoje resolvi redimir-me de um erro nesta lista. Eu pulei o dia 11, fui direto para o dia 12. Embora a escolha do dia 11 realmente seja complicada, foi por pura falta de atenção que o fiz. Desculpem-me!

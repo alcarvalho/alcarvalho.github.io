@@ -25,7 +25,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Voltando para o cruzeiro normal do desafio, agora que o remendo foi feito.

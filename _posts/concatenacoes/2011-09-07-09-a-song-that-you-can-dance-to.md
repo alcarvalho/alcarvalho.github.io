@@ -23,7 +23,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Eu gosto de dançar. Só há um pequeno problema: eu não sei. Porém isso é facilmente contornável. Quando encontro uma dama com boa disposição. Se encontro destas, danço de tudo, de samba a valsa, passando por bolero e salsa.

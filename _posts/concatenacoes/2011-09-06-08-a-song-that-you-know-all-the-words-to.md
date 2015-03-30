@@ -21,7 +21,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Não há muitas musicas cuja letra eu sei de cor. Sou bem ruim para decorar letras, só com mira repetição consigo. Por mais que eu goste da música, saber a letra de cabo a rabo é bem raro.

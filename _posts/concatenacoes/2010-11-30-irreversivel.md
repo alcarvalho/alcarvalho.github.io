@@ -6,7 +6,7 @@ permalink: /concatenacoes/irreversivel/
 tweet_this_url:
   - getnew
 categories:
-  - concatenações
+  - concatenacoes
 ---
 
 [![Fazendo hamburguer](/wp-content/uploads/2010/11/ground-beef.jpg){: .caption }](/wp-content/uploads/2010/11/ground-beef.jpg)

@@ -21,7 +21,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Eu não ouço rádio. Praticamente nunca! Na época que eu gostava mais de rock, até ouvia a Kiss FM, quando ela chegou a Campinas, mas eu gastei tanto tempo pesquisando músicas para eu ter, comprei um iPod de 120GB, por que eu vou ouvir rádio? As exceções começaram com a [Oi FM.](http://oifm.com.br/) Gosto bastante dela nas poucas vezes que ouço.

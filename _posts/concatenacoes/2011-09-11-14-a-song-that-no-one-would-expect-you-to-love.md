@@ -21,7 +21,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Eu acho bem pouco provável qualquer um que me conheça não esperar que eu goste de alguma música. Principalmente depois do [post anterior](/musica/30-day-song-challenge/13-a-song-that-is-a-guilty-pleasure/), hahaha… acho que está mais do que claro o quanto eu sou eclético e xarope. Acredito que só se eu postasse um [Luan Santana](http://www.youtube.com/watch?v=nLvX-erABqY) da vida aqui iria espantar o pessoal. Só que isso não vai acontecer, sorry! Se algum dia acontecer, por favor, providenciem um psiquiatra o mais rápido possível para mim, porque significa que eu passei da conta na loucura.

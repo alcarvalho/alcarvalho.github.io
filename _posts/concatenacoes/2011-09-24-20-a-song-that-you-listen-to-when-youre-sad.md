@@ -28,7 +28,7 @@ al2fb_facebook_comment_id:
   - 787847575_10150460358752576_21805646
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 format: standard
 ---
 

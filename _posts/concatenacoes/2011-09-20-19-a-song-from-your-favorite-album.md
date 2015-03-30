@@ -21,7 +21,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Depois de um breve hiato de três dias, retomo o desafio, pois terminar tudo aquilo que começo faz parte de uma nova atitude da minha vida. Oh! Hahaha...

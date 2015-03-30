@@ -1,0 +1,36 @@
+---
+title: concatenações (pt)
+layout: default
+---
+
+<div class="home">
+  <div class="posts">
+    {% for post in site.categories.concatenacoes limit:10 %}
+    <div class="post-teaser">
+      <header>
+        <h1>
+          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+            {{ post.title }}
+          </a>
+        </h1>
+        <p class="meta">
+          {{ post.date | date: "%-d/%m/%Y" }}
+        </p>
+      </header>
+      <div class="excerpt">
+        {{ post.excerpt }}
+        <a class="button" href="{{ post.url | prepend: site.baseurl }}">
+          Continue lendo
+        </a>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+
+  <div class="pagination">
+    <a href="/blog/" class="button" >
+      <i class="fa fa-align-right"></i>
+      Todos
+    </a>
+  </div>
+</div>

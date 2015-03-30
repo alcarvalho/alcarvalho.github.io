@@ -21,7 +21,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Uma música que me faça rir? Putz, algumas músicas ridículas me fazem rir, mas acho que não é o caso aqui. Quero escolher alguma coisa boa para postar. Sendo assim o primeiro cara que me veio à mente foi meu xará, novamente, o André Abujamra. Para mim ele é mestre em usar o humor na música com muita, muita inteligência.

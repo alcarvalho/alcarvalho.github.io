@@ -23,7 +23,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Essa foi a mais fácil! Ultimamente eu não tenho feito outra coisa se não postar músicas no facebook que me lembram de um certo lugar.

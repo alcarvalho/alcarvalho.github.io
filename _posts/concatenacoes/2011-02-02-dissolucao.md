@@ -4,7 +4,7 @@ author: André Carvalho
 layout: post
 permalink: /concatenacoes/dissolucao/
 categories:
-  - concatenações
+  - concatenacoes
   - música
 ---
 
