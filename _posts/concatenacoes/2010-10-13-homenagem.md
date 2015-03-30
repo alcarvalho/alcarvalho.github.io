@@ -6,7 +6,7 @@ permalink: /viagem/jeri/homenagem/
 tweet_this_url:
   - getnew
 categories:
-  - concatenações
+  - concatenacoes
   - jericoacoara
 ---
 

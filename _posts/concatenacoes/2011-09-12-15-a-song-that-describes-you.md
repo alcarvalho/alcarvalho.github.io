@@ -21,7 +21,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Putz, uma música que me descreva? Fala sério… se ao menos eu soubesse me descrever, ficaria mais fácil achar uma música que represente a minha descrição. Mas não é o caso.

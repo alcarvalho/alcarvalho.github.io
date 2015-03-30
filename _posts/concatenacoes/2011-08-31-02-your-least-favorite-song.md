@@ -13,7 +13,7 @@ tweet_this_url:
   - getnew
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Descobri este desafio no post de um amigo no Google+. Por acaso o post que vi foi justamente este que tenho que fazer agora. E o questionamento que ele fez, refaço aqui, por ser muito pertinente. O que seria sua "least favorite song"?

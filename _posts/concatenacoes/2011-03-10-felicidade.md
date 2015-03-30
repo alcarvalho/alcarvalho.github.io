@@ -6,7 +6,7 @@ permalink: /concatenacoes/felicidade/
 tweet_this_url:
   - getnew
 categories:
-  - concatenações
+  - concatenacoes
 ---
 
 A coisa mais subjetiva do mundo. Só quem sente sabe o que é, naquele momento, sentir.

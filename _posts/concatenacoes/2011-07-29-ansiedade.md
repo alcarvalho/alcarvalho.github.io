@@ -6,7 +6,7 @@ permalink: /concatenacoes/ansiedade/
 tweet_this_url:
   - getnew
 categories:
-  - concatenações
+  - concatenacoes
 ---
 
 O momento não passa e voa ao mesmo tempo. Cada instante te arrepia a as fibras. Músculos não se aquietam e você teima em marcar a pulsação de Giant Steps o tempo todo com o calcanhar, só reveza as pernas.

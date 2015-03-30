@@ -21,7 +21,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Que coisa mais genérica isso, uma música que me lembre de um certo evento! Mas se aceitei o desafio, vamos lá, né. Como em outros dias, há infinitas músicas que me lembram de infinitos eventos. É bem possível que quase todas as música me lembrem de algum evento, já que a música é parte bastante importante da minha vida sempre.

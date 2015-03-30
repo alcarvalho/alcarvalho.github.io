@@ -25,7 +25,7 @@ al2fb_facebook_error:
   - 'Delete comment: Facebook error: Error validating application. Application has been deleted.'
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Hoje é um dia especial. Uma música que ouço quando estou feliz é algo muito bom de se pensar. É uma pena, justo hoje, eu ter que fazer isso de maneira tão corrida. Então vamos ao que interessa!

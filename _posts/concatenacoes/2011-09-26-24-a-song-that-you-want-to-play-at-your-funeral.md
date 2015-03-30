@@ -23,7 +23,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Novamente uma que me faz ser ortodoxo. Uma das mais belas composições que já ouvi na vida foi concebida justamente com este propósito. Ainda que tenha sido encomendada e até não foi finalizada pelo autor.

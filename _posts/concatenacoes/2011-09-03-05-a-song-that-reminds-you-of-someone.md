@@ -21,7 +21,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Esta é mais uma escolha complicada. Assim como nos outros dias, há muitas opções. Muitas músicas me lembram de muita gente. Mais uma vez o critério aqui foi lembrar de alguma que fosse especial por algum motivo.

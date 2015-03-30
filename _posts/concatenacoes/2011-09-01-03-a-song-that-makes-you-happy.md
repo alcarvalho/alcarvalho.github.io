@@ -23,7 +23,7 @@ tt_http_code:
   - 401
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Muitas músicas me deixam feliz. E o motivo é muito simples: das artes a música é certamente a que mais me atinge, me emociona, me move. A sensação que tenho ao ouvir uma música boa é de êxtase! Os momentos de maior felicidade instantânea que tive foram ouvindo música boa ao vivo. Fato.

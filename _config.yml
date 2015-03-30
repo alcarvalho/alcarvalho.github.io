@@ -5,10 +5,10 @@ url: "http://alcarvalho.github.io" # the base hostname & protocol for your site
 # THEME-SPECIFIC CONFIGURATION
 theme:
   # Meta
-  title: concatenações de chico
+  title: andre carvalho
   avatar:
   gravatar: bc403142cbfb5a37fa8ca92b2f6730cb
-  description: "fico aqui inventando moda" # used by search engines
+  description: "andre carvalho's personal website. concatenações de chico: fico aqui inventando moda" # used by search engines
 
   # Header and footer text
   header_text: # nada for now

@@ -25,7 +25,7 @@ al2fb_facebook_comment_id:
   - 787847575_10150438170157576_21439833
 categories:
   - 30 day song challenge
-  - concatenações
+  - concatenacoes
 ---
 
 Essa vai doer! :P
