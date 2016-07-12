@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/alcarvalho
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://andrecarvalho.org
+  * I am alcarvalho (https://keybase.io/alcarvalho) on keybase.
+  * I have a public key with fingerprint 4D63 A6BB 37F7 BD24 F5A9  FB5C D7D7 C8B7 0017 26CB
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01209ae5157843b3483daaa4354f485099ad12d8997fed8fd6f0c2d7858e0e42d3390a",
+            "fingerprint": "4d63a6bb37f7bd24f5a9fb5cd7d7c8b7001726cb",
+            "host": "keybase.io",
+            "key_id": "d7d7c8b7001726cb",
+            "kid": "01018495d30060df2ca5235550621a4603538b0b292dd44d31031bd2afbbbf51b9650a",
+            "uid": "45f16932d8a99ee45581e16a6b02fa19",
+            "username": "alcarvalho"
+        },
+        "service": {
+            "hostname": "andrecarvalho.org",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1468344682,
+    "expire_in": 157680000,
+    "prev": "1257a61d398cee36a2b09473bc54dd9712a3e6669a8270aa6dc108f7b6940583",
+    "seqno": 9,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMN0AnicbVJrUFRVHF8eKrBjIM6IM0DBNSESmPs697FhDhQ9bKhsxmDQ2jn3nnPh
+wnp32V1A3gOi0UsZlIlCPmyEkFjgIzVkSlDGDVYUhZaoLemDskyGjh/wMVp3mfjW
++XDOnP/5/X7n9/ufc3F1iCEiyOt1nzHEJI0FjQ11lBpy96YUVRGSFVUQpiqiGC8t
+2IKww2kuVhFhIkiKJkWIAQV4gWUkhhUYBCFkGcAqrABIUYSIopEgiryCkaAgTiFl
+GvECEDCJWRoxjEhCIpVQVK0A2212VXPqsiziGMhJEsMrvIRoVgFQVCQgIx7xsiDx
+JEnxNCdLOrHQ6ggwdHMSdOB01arX9I15yd7/4Jd9k5TAigAxJMmRSKFlCGgGAEBy
+NAVZjmQAI0ikRIs0QiyLGIpkKN0JVCRJUgAliRxY8l26JMcCheJERg8KRRFjFgCB
+whSnRyBpBVJiAOjAdg3uwjoaWmRoL4OWQitRk0ro9TJVxoHWBrIsYzRkx8uwdKu9
+QJew2a1Oq2y16MeFTqfNFGA7K2wBeDmWzP8JmSVVQ3o3dUIZtjtUq0aYKB0pO9WA
+MsVyAsPqE51K4N021Y7NagABeE4g9RG4BpfpkhQNeMhRiBEFGWOGg7REiizPSDJg
+ERJ5ioYM5jhOhALNkxBySKZIQX8vTmRJIDBEIFqJZiVMom4TFuiSDrVAg85SOyZq
+hod2hhqCIgwrVwQHfpkhIjxq+e8x7VGGnlXDj6wNc7OdHc0xN/N9WZmXwiZF3yi/
+44UVcURdzsZ9t8+3xfrePw0S4rZwseWLH31Yvy4jTRajn1hYT/381vh7Iws//76B
+ea696XyCMtl4/OqBFFdCU3KeaZu3eXf2t3uu9n2/q8RUt3nmxJtJ5/JD/OMZa7XH
+K0vujAWpk9uzzpkzm0KPdgz/8HXkG/GH75bVTHT4s2nDM8byn6rSRhfrT0tf1U1V
+vpeb9mq78ZSrV10gwkXDLeK3xzWfv7znC8/TRR2PrpS6awc/2dJqumAMtWQfbmYz
+asepa4YJT1zisTz/s/jX4mAq/q3pnVd6tuUfzJofrBrLCWvsP+MYcH+sGC+vXnPw
+9fGp6n+sN7RBWfXGfpPXY548/m6k76nNo0dccW1Z1RUjqW7W1/fHi5/2tsz67tV5
+3P2+6x+AlgNFg68ln1jneuApuVl5sm1H+F3txnSM/+zcMd93R/9sWNU6NeF/kLAm
+aUNO78XK6dnW9ql3un4c1tz1A9FjsKk8hZjvajtZ3R5V9Lbty8ja5O6F4aHJfWtB
+0abrpd2RZw/tz0v2TKx3WRY6m0f+7tp7YWbgofh8X8MvYc2NQ956V97GW57LxvT7
+tU+CTm2639/9SupD5nZu9Pr4/RN9jX99dq1zPs7bkmieT7xTaBypjjdtnYt66Yi/
+4VDv9szk4JmQBt+AZuIWL+X9CyvXx9w=
+=VK/i
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alcarvalho
+
+==================================================================
